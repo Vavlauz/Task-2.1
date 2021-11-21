@@ -4,4 +4,4 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
-[NeuroStartUp](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+![NeuroStartUp](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
